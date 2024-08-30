@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../ASD classfication/ChebNet+loss.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/ChebNet.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/GAT+loss.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/GAT.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/GCN+loss.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/GCN.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/MWU-test.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/SVM.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/draw_auc.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/draw_parameter.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/graphsage+loss.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../ASD classfication/graphsage.py" charset="GBK" />
+  </component>
+</project>
