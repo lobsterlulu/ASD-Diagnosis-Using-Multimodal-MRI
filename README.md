@@ -15,13 +15,15 @@ Recommended version:
 
 Our charts are placed below：
 ### Figure 1: The overall framework of the proposed model. It consists of three modules.
-![model](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/fd9a7606-cdfd-4a8e-8705-5d3eff93902f)
+
+<img src="./figures/dti.png" alt="frontpage" width="650"/>
 
 ### Figure 2: ROC curve for GCN, GAT, ChebyNet and graphSAGE.
-![roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/64e3e045-aac1-4c79-8c84-4e81d8cb8525)
+
+<img src="./figures/fmri.png" alt="frontpage" width="650"/>
 
 ### Figure 3: Hyper-parameter 𝑎 search.
-![para_new](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/1f77c961-7553-4d4d-a2fc-d6ddf27f6605)
+<img src="./figures/framework.png" alt="frontpage" width="650"/>
 
 ### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
 ![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/4fbd633c-9366-457b-924a-0589ed6d447c)
