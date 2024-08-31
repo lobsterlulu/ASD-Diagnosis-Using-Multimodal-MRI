@@ -1,4 +1,6 @@
-# ASD-Diagnose-with-GNNs
+# ASD-Diagnosis-Using-Multimodal-MRI
+
+**Official code for our paper "Diagnosis and Pathogenic Analysis of Autism Spectrum Disorder Using Fused Brain Connection Graph".**
 
 This repository includes four GNN models of ASD Diagnose: GCN, GAT, ChebyNet and graphSAGE, two plotting codes and the MWU test code. The Python file ending with "+loss" is the model that introduces the Wasserstein Graph Distance.
 
