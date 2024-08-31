@@ -18,14 +18,14 @@ Recommended version:
 Our charts are placed below：
 ### Figure 1: The overall framework of the proposed model. It consists of three modules.
 
-<img src="./figures/dti.png" alt="frontpage" width="650"/>
+<img src="./figures/dti.png" alt="frontpage" width="450"/>
 
 ### Figure 2: ROC curve for GCN, GAT, ChebyNet and graphSAGE.
 
-<img src="./figures/fmri.png" alt="frontpage" width="650"/>
+<img src="./figures/fmri.png" alt="frontpage" width="450"/>
 
 ### Figure 3: Hyper-parameter 𝑎 search.
-<img src="./figures/framework.png" alt="frontpage" width="650"/>
+<img src="./figures/framework.png" alt="frontpage" width="750"/>
 
 ### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
 ![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/4fbd633c-9366-457b-924a-0589ed6d447c)
