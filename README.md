@@ -27,12 +27,13 @@ Our charts are placed below：
 ### Figure 3: DTI
 <img src="./figures/dti.png" alt="frontpage" width="450"/>
 
-### Figure 4: Visualizations of ASD classification on TNR (left panel), TPR (middle panel), and AUC (right panel) (with standard deviation) of baseline methods and the proposed models, averaged over five cross-validation folds. ``(+ $\mathcal{R}_{g}$)'' denotes the proposed regularization-based GNN model.
-<img src="./figures/bar_plot_1.png" alt="frontpage" width="450"/>
+### Figure 4: Visualizations of ASD classification on TNR (left panel), TPR (middle panel), and AUC (right panel) (with standard deviation) of baseline methods and the proposed models, averaged over five cross-validation folds. (+ $\mathcal{R}_{g}$) denotes the proposed regularization-based GNN model.
+<img src="./figures/bar_plot_1.png" alt="frontpage" width="750"/>
 
 
-### Figure 5: ASD related brain regions visualization. The left (right) panel shows the significant regions of the left (right) half of the brain from the lateral and dorsal views. And the middle panel displays the top 15 regions from the medial view.
-<img src="./figures/bar_plot_2.png" alt="frontpage" width="450"/>
+### Figure 5: Comparisons on two fusion manners, ${\rm GNN}(\mathbf{A}=\mathbf{A}^{\rm DTI},\mathbf{X}=\mathbf{A}^{\rm fMRI})$ and  ${\rm GNN}(\mathbf{A}=\mathbf{A}^{\rm fMRI},\mathbf{X}=\mathbf{A}^{\rm DTI})$, namely, exchange the roles of $\mathbf{A}=\mathbf{A}^{\rm DTI},\mathbf{X}=\mathbf{A}^{\rm fMRI}$ in GNNs, where ${\rm GNN}$ can be selected from \{GCN, GAT, GraphSAGE, 
+ChebyNet\}.
+<img src="./figures/bar_plot_2.png" alt="frontpage" width="750"/>
 
 
 
