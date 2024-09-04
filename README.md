@@ -20,14 +20,14 @@ Our charts are placed below：
 <img src="./figures/framework.png" alt="frontpage" width="750"/>
 
 
-### Figure 2: ROC curve for GCN, GAT, ChebyNet and graphSAGE.
+### Figure 2: fMRI
 
 <img src="./figures/fmri.png" alt="frontpage" width="450"/>
 
-### Figure 3: Hyper-parameter 𝑎 search.
+### Figure 3: DTI
 <img src="./figures/dti.png" alt="frontpage" width="450"/>
 
-### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
+### Figure 4: Visualizations of ASD classification on TNR (left panel), TPR (middle panel), and AUC (right panel) (with standard deviation) of baseline methods and the proposed models, averaged over five cross-validation folds. ``(+ $\mathcal{R}_{g}$)'' denotes the proposed regularization-based GNN model.
 <img src="./figures/bar_plot_1.png" alt="frontpage" width="450"/>
 
 
