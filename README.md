@@ -28,11 +28,11 @@ Our charts are placed below：
 <img src="./figures/dti.png" alt="frontpage" width="450"/>
 
 ### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
-<img src="./figures/bar_plot_1.pdf" alt="frontpage" width="450"/>
+<img src="./figures/bar_plot_1.png" alt="frontpage" width="450"/>
 
 
 ### Figure 5: ASD related brain regions visualization. The left (right) panel shows the significant regions of the left (right) half of the brain from the lateral and dorsal views. And the middle panel displays the top 15 regions from the medial view.
-<img src="./figures/bar_plot_2.pdf" alt="frontpage" width="450"/>
+<img src="./figures/bar_plot_2.png" alt="frontpage" width="450"/>
 
 
 
