@@ -39,7 +39,7 @@ Our charts are placed below：
 
 
 ### Figure 7: The visualization depicts three distinct centralities of the Karate Club graph: degree centrality (left panel), eigenvector centrality (middle panel), and subgraph centrality (right panel). The color intensity and node size correspond to normalized centrality values, with larger and darker nodes indicating higher centrality levels.
-<img src="./figures/bar_plot_2.png" alt="frontpage" width="750"/>
+<img src="./figures/centralities_02.png" alt="frontpage" width="750"/>
 
 
 ### Figure 8: The visualization portrays the distributions of the three types of network node centrality within the ASD group (comprising 67 patients denoted by red curves) and the control group (consisting of 71 samples denoted by blue curves). The top 15 distributions of brain regions are displayed based on the ranking of network node centrality. The panels, from top to bottom, correspond to degree centrality, eigenvector centrality, and subgraph centrality, respectively.
